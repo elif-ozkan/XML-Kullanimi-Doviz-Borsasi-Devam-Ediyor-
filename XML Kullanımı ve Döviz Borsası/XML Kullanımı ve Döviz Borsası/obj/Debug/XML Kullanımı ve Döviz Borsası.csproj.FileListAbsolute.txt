@@ -1,0 +1,22 @@
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\bin\Debug\XML Kullanımı ve Döviz Borsası.exe.config
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\bin\Debug\XML Kullanımı ve Döviz Borsası.exe
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\bin\Debug\XML Kullanımı ve Döviz Borsası.pdb
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML_Kullanımı_ve_Döviz_Borsası.Form1.resources
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML_Kullanımı_ve_Döviz_Borsası.Properties.Resources.resources
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.exe
+C:\Users\elifo\Desktop\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.pdb
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\bin\Debug\XML Kullanımı ve Döviz Borsası.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\bin\Debug\XML Kullanımı ve Döviz Borsası.exe
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\bin\Debug\XML Kullanımı ve Döviz Borsası.pdb
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML_Kullanımı_ve_Döviz_Borsası.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML_Kullanımı_ve_Döviz_Borsası.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.exe
+C:\Users\elifo\Desktop\PROJELERİM\XML Kullanımı ve Döviz Borsası\XML Kullanımı ve Döviz Borsası\obj\Debug\XML Kullanımı ve Döviz Borsası.pdb
